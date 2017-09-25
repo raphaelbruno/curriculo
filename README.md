@@ -12,25 +12,26 @@ Telefone: (85) 98923.7010
 E-mail: raphaelbruno2.0@gmail.com
 
 ### Experiências
-**Secretaria Municipal da Educação**
+- **Secretaria Municipal da Educação**
 Analista de Sistemas | Jan/2014 - Atual
-Java, JSF, PHP, Oracle, PostgreSQL.
+(Java, JSF, PHP, Oracle, PostgreSQL).
 
-**Universidade Federal do Ceará**
+- **Universidade Federal do Ceará**
 Analista de Sistemas | Fev/2013 - Dez/2013
-Projeto: Ambiente Virtual de Aprendizagem Conselhos Escolares, PHP, ActionScript 3, Photoshop, Mysql
+Projeto: Ambiente Virtual de Aprendizagem Conselhos Escolares
+(PHP, ActionScript 3, Photoshop, Mysql).
 
-**Secretaria da Educação do Ceará**
+- **Secretaria da Educação do Ceará**
 Analista de Sistemas | Abr/2010 - Jan/2013
-Java, JSF, PHP, Action Script 3, Blender 3D, PostgreSQL, Photoshop.
+(Java, JSF, PHP, Action Script 3, Blender 3D, PostgreSQL, Photoshop).
 
-**Avanz**
+- **Avanz**
 Webdeveloper | Abr/2008 - Mar/2010
-Websites, Flash, Action Script 3, Photoshop, CSS, JS, PHP, MySQL.
+(Websites, Flash, Action Script 3, Photoshop, CSS, JS, PHP, MySQL).
 
-**NeoPrint**
+- **NeoPrint**
 Webdesigner | Jun/2007 – Mar/2008
-Websites, CSS, JS, Flash, Photoshop, Fireworks.
+(Websites, CSS, JS, Flash, Photoshop, Fireworks)/.
 
 ### Formação
 **FA7**
@@ -40,11 +41,11 @@ Pós graduação - Engenharia de Software
 Graduação - Analise de Sistemas Web
 
 ### Extra
-**Udemy**
+- **Udemy**
 React + Redux
 
-**Arte&Cia**
+- **Arte&Cia**
 Animação 3D
 
-**CEPEP**
+- **CEPEP**
 Maket Eletrônica 3D
