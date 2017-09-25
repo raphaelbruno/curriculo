@@ -8,7 +8,7 @@ GitHub: https://github.com/raphaelbruno <br />
 Linkedin: https://www.linkedin.com/in/raphael-bruno-alves-de-sá-53665a30/
 
 ### Contato
-Telefone: (85) 98923.7010
+Telefone: (85) 98923.7010 <br />
 E-mail: raphaelbruno2.0@gmail.com
 
 ### Experiências
@@ -29,7 +29,7 @@ Analista de Sistemas | Abr/2010 - Jan/2013 <br />
 Webdeveloper | Abr/2008 - Mar/2010 <br />
 (Websites, Flash, Action Script 3, Photoshop, CSS, JS, PHP, MySQL).
 
-- **NeoPrint**
+- **NeoPrint** |
 Webdesigner | Jun/2007 – Mar/2008 <br />
 (Websites, CSS, JS, Flash, Photoshop, Fireworks).
 
