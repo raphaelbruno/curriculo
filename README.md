@@ -6,7 +6,8 @@ Desenvolvendo soluções para a web desde 2007, comecei desenhando e codificando
 Local: Fortaleza - Ceará | 31 anos
 
 GitHub: https://github.com/raphaelbruno <br />
-Linkedin: https://www.linkedin.com/in/raphael-bruno-alves-de-sá-53665a30/
+Linkedin: https://www.linkedin.com/in/raphael-bruno-alves-de-sá-53665a30/ <br />
+Lattes: http://lattes.cnpq.br/0816621286565491
 
 Telefone: (85) 98923.7010 <br />
 E-mail: raphaelbruno2.0@gmail.com
@@ -55,7 +56,7 @@ Pós graduação - Engenharia de Software
 * **FATENE** |
 Graduação - Analise de Sistemas Web
 
-## Extra
+### Extra
 
 * **Udemy** |
 React + Redux
