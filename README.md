@@ -1,7 +1,7 @@
 
 ## Raphael Bruno Alves de Sá
 
-Desenvolvendo soluções para a web desde 2006, autodidata, busco me reciclar constantemente em minha área.
+Desenvolvendo soluções para a web desde 2007, comecei desenhando e codificando websites, posteriormente adquiri experiência em Rich Internet Application e então passei a conhecer e gostar de desenvolvimento de sistemas.
 
 Local: Fortaleza - Ceará | 31 anos
 
