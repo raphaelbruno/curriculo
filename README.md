@@ -66,10 +66,13 @@ Graduação - Analise de Sistemas Web
 * **Udemy** |
 React + Redux
 
-* **Secretaria Municipal da Educação** |
+* **Secretaria Municipal** |
+BI
+
+* **Secretaria Municipal** |
 PL/SQL
 
-* **Secretaria Municipal da Educação** |
+* **Secretaria Municipal** |
 JPA e Hibernate
 
 * **Arte&Cia** |
