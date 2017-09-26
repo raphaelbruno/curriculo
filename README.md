@@ -25,11 +25,16 @@ E-mail: raphaelbruno2.0@gmail.com
 * SVN/GIT
 * Inglês - Ler/escrever o bastante para se comunicar; Escuto e entendo o básico.
 
+### Interesses Extra
+* Modelagem/Animação 3D
+* Desenvolvimento Jogos
+* Mobile
+
 ## Experiências
 
 * **Secretaria Municipal da Educação** |
 Analista de Sistemas | Jan/2014 - Atual <br />
-(Java, JSF, PHP, Oracle, PostgreSQL).
+(Java, JSF, PHP, Oracle, PostgreSQL, Maven, Ibatis).
 
 * **Universidade Federal do Ceará** |
 Analista de Sistemas | Fev/2013 - Dez/2013 <br />
@@ -60,6 +65,12 @@ Graduação - Analise de Sistemas Web
 
 * **Udemy** |
 React + Redux
+
+* **Secretaria Municipal da Educação** |
+PL/SQL
+
+* **Secretaria Municipal da Educação** |
+JPA e Hibernate
 
 * **Arte&Cia** |
 Animação 3D
