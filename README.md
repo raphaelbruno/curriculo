@@ -27,7 +27,7 @@ E-mail: raphaelbruno2.0@gmail.com
 
 ### Interesses Extra
 * Modelagem/Animação 3D
-* Desenvolvimento Jogos
+* Desenvolvimento de Jogos
 * Mobile
 
 ## Experiências
