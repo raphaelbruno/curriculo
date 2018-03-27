@@ -9,8 +9,7 @@ GitHub: https://github.com/raphaelbruno <br />
 Linkedin: https://www.linkedin.com/in/raphael-bruno-alves-de-sá-53665a30/ <br />
 Lattes: http://lattes.cnpq.br/0816621286565491
 
-Telefone: (85) 98923.7010 <br />
-E-mail: raphaelbruno2.0@gmail.com
+Contato: raphaelbruno2.0@gmail.com
 
 ## Conhecimentos
 
