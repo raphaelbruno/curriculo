@@ -3,7 +3,7 @@
 
 Desenvolvendo soluções para a web desde 2007, comecei desenhando e codificando websites, posteriormente adquiri experiência em Rich Internet Application e então passei a conhecer e gostar de desenvolvimento de sistemas.
 
-Local: Fortaleza - Ceará | 31 anos
+Local: Fortaleza - Ceará | 34 anos
 
 GitHub: https://github.com/raphaelbruno <br />
 Linkedin: https://www.linkedin.com/in/raphael-bruno-alves-de-sá-53665a30/ <br />
