@@ -9,7 +9,7 @@ GitHub: https://github.com/raphaelbruno <br />
 Linkedin: https://www.linkedin.com/in/raphael-bruno-alves-de-sá-53665a30/ <br />
 Lattes: http://lattes.cnpq.br/0816621286565491
 
-Contato: raphaelbruno2.0@gmail.com
+Contato: contato@raphaelbruno.com.br
 
 ## Conhecimentos
 
@@ -22,17 +22,31 @@ Contato: raphaelbruno2.0@gmail.com
 * Oracle
 * PostgreSql
 * SVN/GIT
-* Inglês - Ler/escrever o bastante para se comunicar; Escuto e entendo o básico.
+* Inglês Técnico
+
+### Conhecimentos Extra
+* Criação de Layouts (sites/hotsites/etc)
+* Responsívo (e Flexbox)
+* Programação para Mercado Financeio (Indicadores/Ferramentas/Robôs)
+  * MQL5
+  * TradingView PineScript
+  * Profit
+* ElectronJS 
 
 ### Interesses Extra
 * Modelagem/Animação 3D
 * Desenvolvimento de Jogos
 * Mobile
+* Bolsa de Valores
 
 ## Experiências
 
+* **Secretaria da Ouvidoria, Gestão e Transparência** |
+Analista de Sistemas | Nov/2017 - Nov/2018 <br />
+(PHP, Oracle, PostgreSQL, Git, Composer).
+
 * **Secretaria Municipal da Educação** |
-Analista de Sistemas | Jan/2014 - Atual <br />
+Analista de Sistemas | Jan/2014 - Nov/2017 <br />
 (Java, JSF, PHP, Oracle, PostgreSQL, Maven, Ibatis).
 
 * **Universidade Federal do Ceará** |
