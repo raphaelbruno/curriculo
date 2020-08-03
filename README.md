@@ -70,10 +70,10 @@ Webdesigner | Jun/2007 – Mar/2008 <br />
 ## Formação
 
 * **FA7** |
-Pós graduação - Engenharia de Software
+Pós graduação - Engenharia de Software (01/2014 ~ 12/2016)
 
 * **FATENE** |
-Graduação - Analise de Sistemas Web
+Graduação - Analise de Sistemas Web (01/2008 ~ 12/2012)
 
 ### Extra
 
