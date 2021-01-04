@@ -46,7 +46,7 @@ Contato: contato@raphaelbruno.com.br
 Analista de Sistemas | Out/2020 - Atual <br />
 (PHP, JS, Oracle, PostgreSQL, Git, Composer, npm).
 
-* **Autonomo (Home Office)** |
+* **Autônomo (Home Office)** |
 Analista de Sistemas | Dez/2018 - Set/2020 <br />
 (PHP, JS, ReactJS, VueJS, PostgreSQL, Git, Composer, npm).
 
