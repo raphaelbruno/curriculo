@@ -43,6 +43,10 @@ Contato: contato@raphaelbruno.com.br
 ## Experiências
 
 * **Secretaria da Ouvidoria, Gestão e Transparência** |
+Analista de Sistemas | Out/2020 - Atual <br />
+(PHP, JS, Oracle, PostgreSQL, Git, Composer, npm).
+
+* **Secretaria da Ouvidoria, Gestão e Transparência** |
 Analista de Sistemas | Nov/2017 - Nov/2018 <br />
 (PHP, Oracle, PostgreSQL, Git, Composer).
 
