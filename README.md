@@ -18,6 +18,8 @@ Contato: contato@raphaelbruno.com.br
 * PHP
 * Javascript (es2015, framworks)
 * React + Redux
+* Vue.js
+* Angular.js
 * JSF
 * HTML e CSS
 * Oracle
@@ -38,7 +40,6 @@ Contato: contato@raphaelbruno.com.br
 * Modelagem/Animação 3D
 * Desenvolvimento de Jogos
 * Mobile
-* Bolsa de Valores
 
 ## Experiências
 
